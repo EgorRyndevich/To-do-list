@@ -9,4 +9,4 @@
 - Tailwins
 - DOM
 
-[watch DEMO]:https://egorryndevich.github.io/To-do-list/
+[watch DEMO](https://egorryndevich.github.io/To-do-list/)
